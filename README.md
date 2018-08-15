@@ -1,2 +1,2 @@
 # audio_yarn
-Example code for audio apps with multithreading
+Example code in C++ for audio apps with multithreading
